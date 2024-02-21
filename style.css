@@ -1,0 +1,14 @@
+button {
+  display: inline-block;
+  margin: .5rem;
+}
+
+.screens {
+  display: flex;
+}
+
+canvas,
+video {
+  border: 1px solid black;
+  margin: .5rem;
+}
